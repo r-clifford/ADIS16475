@@ -1,0 +1,6 @@
+[submodule "pigpio"]
+	path = pigpio
+	url = https://github.com/joan2937/pigpio.git
+[submodule "JETGPIO"]
+	path = JETGPIO
+	url = https://github.com/Rubberazer/JETGPIO.git
